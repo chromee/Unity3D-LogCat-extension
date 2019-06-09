@@ -16,9 +16,21 @@ Functions
 - List of devices
 - Update devices list
 
-How to use
+How to use with Package Manager
 ---------------------
-1. Clone `LogCatWindow.cs` from this repository into a folder named `Editor` within your `Assets` folder
+
+Add package to `manifest.json`
+```
+{
+  "dependencies": {
+    "com.github.dzonatan.unity3d-logcat-extension": "https://github.com/dzonatan/Unity3D-LogCat-extension.git"
+  }
+}
+```
+
+How to use without Package Manager
+---------------------
+1. Clone `Editor/LogCatWindow.cs` from this repository into a folder named `Editor` within your `Assets` folder
 2. Plug in the android device to the usb
 3. Click Window -> LogCat - Android Logger
 4. Start logging by clicking "Start logging" button!
