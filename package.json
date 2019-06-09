@@ -1,0 +1,13 @@
+{
+  "name": "com.github.dzonatan.unity3d-logcat-extension",
+  "author": "Rokas Brazdzionis <rokas.brazdzionis@gmail.com>",
+  "displayName": "Unity3D LogCat extension",
+  "keywords": [
+    "Mobile",
+    "Android",
+    "Logcat"
+  ],
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "Logcat (android logging) extension for unity3D. Forget about using android studio or worthless terminal window. Log and filter your android messages directly from Unity3D!"
+}
