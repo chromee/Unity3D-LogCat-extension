@@ -23,7 +23,7 @@ Add package to `manifest.json`
 ```
 {
   "dependencies": {
-    "com.github.dzonatan.unity3d-logcat-extension": "https://github.com/dzonatan/Unity3D-LogCat-extension.git"
+    "com.github.dzonatan.unity3d-logcat-extension": "https://github.com/shiena/Unity3D-LogCat-extension.git#upm"
   }
 }
 ```
