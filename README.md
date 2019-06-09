@@ -27,13 +27,13 @@ Screenshots
 ---------------------
 
 ### Initial window
-![Initial window](/screenshots/InitialWindow.png)
+![Initial window](/screenshots~/InitialWindow.png)
 
 ### Filter by log type(s)
-![Filter by string](/screenshots/FilterByErrorTypes.png)
+![Filter by string](/screenshots~/FilterByErrorTypes.png)
 
 ### Filter by log type(s) & text
-![Filter by log type & string](/screenshots/FilterByErrorTypesAndString.png)
+![Filter by log type & string](/screenshots~/FilterByErrorTypesAndString.png)
 
 Contribution
 ---------------------
