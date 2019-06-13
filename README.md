@@ -13,6 +13,8 @@ Functions
 - "Only Unity" pre-filter
 - Filter by log type (error, warning, debug, info, verbose)
 - Filter by text (case-insensitive)
+- List of devices
+- Update devices list
 
 How to use
 ---------------------
