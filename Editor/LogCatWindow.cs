@@ -233,7 +233,7 @@ public class LogCatWindow : EditorWindow
             LogCatLog log = filteredList[i];
             GUI.backgroundColor = log.GetBgColor();
             GUILayout.BeginHorizontal(lineStyle);
-            GUILayout.Label(log.CreationDate + " | " + log.Message);
+            EditorGUILayout.SelectableLabel(log.CreationDate + " | " + log.Message, GUILayout.Height(20));
             GUILayout.EndHorizontal(); 
         }
         
